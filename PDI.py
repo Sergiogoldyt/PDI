@@ -68,7 +68,7 @@ def show_program():
 
     Autor     BASTYYY678
     Nombre    Facebook Informacion
-    Version   Full Version
+    Version   1
     Dato      28/03/2021 
     contacto  https://t.me/Bastyyy678  
 
