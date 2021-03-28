@@ -67,12 +67,12 @@ def show_program():
  ------------------------------------------------------
 
     Autor     BASTYYY678
-    Nombre    Facebook Información
+    Nombre    Facebook Informacion
     Version   Full Version
     Dato      28/03/2021 
     contacto  https://t.me/Bastyyy678  
 
-* Si encuentra algún error o problema, comuníquese con
+* Si encuentra algun error o problema, comuniquese con
   autor
 '''%(G,W)
 def info_ga():
@@ -85,7 +85,7 @@ def info_ga():
    get_info           mostrar información sobre tu amigo
 
    dump_id            obteniendo toda la identificación de la lista de amigos
-   dump_phone         obteniendo todos los números de teléfono de la lista de amigos
+   dump_phone         obteniendo todos los números de telefono de la lista de amigos
    dump_mail          obteniendo todos los correos electrónicos de la lista de amigos
    dump_<id>_id       Traer toda la identificación de tus amigas <específico>
 		      ex: dump_username_id
@@ -94,11 +94,11 @@ def info_ga():
    cat_token          muestra tu token de acceso
    rm_token           eliminar el token de acceso
 
-   bot                abrir el menú del bot
+   bot                abrir el menu del bot
 
    clear              terminal claro (Limpiar la terminal)
    help               mostrar ayuda
-   about              Mostrar información sobre este programa
+   about              Mostrar informacion sobre este programa
    exit               Salir del programa
 '''%(G,W)
 def menu_bot():
@@ -106,31 +106,31 @@ def menu_bot():
    %sNumber                  INFO%s
  ---------   ------------------------------------
 
-   [ 01 ]      reacciones automáticas
-   [ 02 ]      comentario automático
-   [ 03 ]      empuje automático
+   [ 01 ]      reacciones automatico
+   [ 02 ]      comentario automatico
+   [ 03 ]      empuje automatico
    [ 04 ]      aceptar todas las solicitudes de amistad
-   [ 05 ]      eliminar todas las publicaciones en su línea de tiempo
+   [ 05 ]      eliminar todas las publicaciones en su linea de tiempo
    [ 06 ]      Eliminar tod@s l@s amig@s
    [ 07 ]      Dejar de seguir a tod@s l@s amig@s
-   [ 08 ]      eliminar todos los álbumes de fotos
+   [ 08 ]      eliminar todos los albumes de fotos
 
-   [ 00 ]      regresar al menú principal
+   [ 00 ]      regresar al menu principal
 '''%(G,W)
 def menu_reaction():
 	print '''
    %sNumber                  INFO%s
  ----------   ------------------------------------
 
-   [ 01 ]      reacción 'ME GUSTA'
-   [ 02 ]      reacción 'ME ENCANTA'
-   [ 03 ]      reacción 'ME IMPORTA''
-   [ 04 ]      reacción 'ME ASOMBRA'
-   [ 05 ]      reacción 'ME DIVIERTE'
-   [ 06 ]      reacción 'ME ENTRISTECE'
-   [ 07 ]      reacción 'ME ENOJA'
+   [ 01 ]      reaccion 'ME GUSTA'
+   [ 02 ]      reaccion 'ME ENCANTA'
+   [ 03 ]      reaccion 'ME IMPORTA''
+   [ 04 ]      reaccion 'ME ASOMBRA'
+   [ 05 ]      reaccion 'ME DIVIERTE'
+   [ 06 ]      reaccion 'ME ENTRISTECE'
+   [ 07 ]      reaccion 'ME ENOJA'
 
-   [ 00 ]      volver al menú bot
+   [ 00 ]      volver al menu bot
 '''%(G,W)
 ####################################################################
 #                     GENERATE ACCESS TOKEN
