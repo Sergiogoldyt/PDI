@@ -30,7 +30,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 pdi.py
+$ python2 PDI.py
 ```       
 
 
