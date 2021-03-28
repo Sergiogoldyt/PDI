@@ -34,6 +34,6 @@ $ python2 pdi.py
 ```       fbi.py
 
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D103684981521622&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FCommunity%2FDonaci%25C3%25B3n-de-bitcoin-103682584855195%2F&tbnid=EJCmKLXBwXvDAM&vet=12ahUKEwizydLAvdPvAhUqlJUCHZmEDjkQMygOegUIARCyAQ..i&docid=D8VhVeBvyGhHlM&w=1153&h=557&itg=1&q=donar%20bitcoin&ved=2ahUKEwizydLAvdPvAhUqlJUCHZmEDjkQMygOegUIARCyAQ
+ DONACION
 
 Bitcoin: 3HVFcmMHjybEZr4df8ow9411TyFjuKgFZ4
