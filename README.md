@@ -20,7 +20,7 @@ PDI es una recopilación precisa de información de la cuenta de Facebook, toda 
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
+$ git clone https://github.com/Sergiogoldyt/PDI.git
 $ cd fbi
 ```
 
